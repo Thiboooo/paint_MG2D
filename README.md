@@ -4,6 +4,6 @@ Mon groupe et moi avons obtenu la note de 16,5/20.
 
 <a href="https://ibb.co/gSMymFn"><img src="https://i.ibb.co/JvRnmFh/paint.png" alt="paint" border="0"></a>
 
-Pour l'exécuter sous Linux:
-make pour compiler
-./paint pour le lancer
+Pour l'exécuter sous Linux: <br>
+make pour compiler <br>
+./paint pour le lancer <br>
